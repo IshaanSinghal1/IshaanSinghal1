@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @IshaanSinghal1
-- 👀 I’m interested in new technologies and development
-- 🌱 I’m currently learning blockchain
-- 💞️ I’m looking to collaborate on web and blockchain projects
+- 👀 I’m interested in new technologies and development.
+- 🌱 I’m have gained some experience working as a Software Engineer in Big Binary.
+-    I'm looking forward to work on some new projects with an established organization.
 - 📫 How to reach me - aceishaan@gmail.com
 
 <!---
